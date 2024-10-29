@@ -2,28 +2,27 @@ td{
     border: 1px solid rgb(139, 26, 253);
     padding: 2px;
     text-align: center;
-    background-color: rgb(228, 203, 252);
+    background-color: #5E548E;
     border-radius: 6px;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 th{
     border: 1px solid rgb(68, 5, 131);
     padding: 2px;
     text-align: center;
-    background-color: rgb(188, 125, 248);
+    background-color: #231942;
     border-radius: 6px;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 table{
-    background-color: rgb(231, 190, 255);
     border-radius: 6px;
     width: 100%;
     padding: 10px;
 }
 
 body{
-    background-color: rgb(181, 166, 194);
+    background-color: #f3d3fd;
 }
 
